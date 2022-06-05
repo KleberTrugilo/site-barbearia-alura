@@ -1,0 +1,2 @@
+# site-barbearia-alura
+Site desenvolvido durante os cursos "HTML5 e CSS3 parte 1: crie uma página da web", "HTML5 e CSS3 parte 2: posicionamento, listas e navegação", "HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas" e "HTML5 e CSS3 parte 4: avançando no CSS", todos da plataforma de cursos Alura, como parte das atividades do estágio no Programa de Aceleração de Carreiras - int.Lab (Grupo Integrado, Campo Mourão-PR). Trata-se de uma página web para uma barbearia fictícia, com elementos que possibilitaram exercitar a programação em HTML5 e CSS3.
